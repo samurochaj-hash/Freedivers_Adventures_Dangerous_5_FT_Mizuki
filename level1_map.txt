@@ -1,0 +1,22 @@
+FREEDIVER'S ADVENTURES DANGEROUS 5 FT MIZUKI
+LEVEL 1: SUNKEN RUINS — ASCII BLOCKOUT
+Each character represents a planned 8x8 tile.
+
+~ = open water   . = bubbles   # = stone   R = ruins
+C = coral        S = seaweed   T = treasure E = creature
+M = Mizuki start X = deeper passage
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~..~~~~~~~~~~~~~~~
+~~~~~~~RRRRRRRR~~~~~~~~~~~~~~
+~~~~~~~R......R~~~~~~~~~~~~~~
+~~~~~~~R..T...R~~~~~~~E~~~~~~
+~~~~~~~RRRRRRRR~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~C~~~~S~~~~~~~~~~~~C~~~~~~
+~~~~C~~~~S~~~~M~~~~~~~~~~~~~~
+##########RRRRRRR############
+#............................#
+#....S.............C.........#
+#....S.............C......X..#
+##############################
